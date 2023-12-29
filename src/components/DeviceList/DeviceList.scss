@@ -1,0 +1,14 @@
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 20px ;
+}
+
+.wrapper__table {
+    margin: 25px 30px;
+}
+
+.table__deviceList {
+    width: 100%;
+    border-collapse: collapse;
+}
