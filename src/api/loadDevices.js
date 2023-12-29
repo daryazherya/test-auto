@@ -1,4 +1,4 @@
-const { REACT_APP_BearerToken } = process.env;
+const { REACT_APP_BearerToken }  = process.env;
 
 const headers = {
     Authorization: `Bearer ${REACT_APP_BearerToken}`,
